@@ -1,0 +1,4 @@
+---- vic_init Matches (3 in 3 files) ----
+drv_l1_init in drv_l1_init.c (driver_l1\common\src) : 	vic_init();							// Initiate Interrupt controller
+drv_l1_interrupt.c (driver_l1\common\src) line 334 : void vic_init(void)
+drv_l1_interrupt.h (driver_l1\common\inc) line 69 : extern void vic_init(void);
